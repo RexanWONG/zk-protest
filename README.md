@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zk-protest
 ZkProtest is a privacy-focused decentralized zkApp that aims to enable anonymous and secure protests where participants can join and support various causes while preserving their privacy.
 
@@ -48,3 +49,31 @@ without compromising their personal information.
 
 
 
+=======
+# Mina zkApp: Github Zkprotest
+
+This template uses TypeScript.
+
+## How to build
+
+```sh
+npm run build
+```
+
+## How to run tests
+
+```sh
+npm run test
+npm run testw # watch mode
+```
+
+## How to run coverage
+
+```sh
+npm run coverage
+```
+
+## License
+
+[Apache-2.0](LICENSE)
+>>>>>>> 154db49 (Init commit)
