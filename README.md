@@ -41,8 +41,9 @@ without compromising their personal information.
 * Privacy preserving, accountable, untraceable
 
 ## technical implementation (see <a href="https://www.dropbox.com/s/c27w4r26hlg55ps/ZkProtest%20Explanation%20%2B%20Demo.mov?dl=0" target="_blank" rel="noopener noreferrer">video</a> for more details)
-diagram explanation part : 2:44 -> 8:14
-code demo : 8:15 -> 10:46
+
+* diagram explanation part : 2:44 -> 8:14
+* code demo : 8:15 -> 10:46
 
 ### technologies used 
 * SnarkyJS
