@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { Add } from './ZkProtest.js';
 
 export { Add };
