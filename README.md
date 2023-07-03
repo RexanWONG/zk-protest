@@ -34,7 +34,7 @@ participants can join and support various causes while preserving their privacy.
 without compromising their personal information.
 * Privacy preserving, accountable, untraceable
 
-## technical implementation (see video for more details)
+## technical implementation (see <a href="https://www.dropbox.com/s/c27w4r26hlg55ps/ZkProtest%20Explanation%20%2B%20Demo.mov?dl=0">video</a> for more details)
 ### technologies used 
 * SnarkyJS
 * zk-SNARKs
