@@ -9,7 +9,7 @@ ZkProtest is a privacy-focused decentralized zkApp that aims to enable anonymous
 you can read below, but video will be more in depth 👇
 
 
-=======
+==========================================================================================================================================================
 
 
 ## current problems with protests
