@@ -2,7 +2,7 @@
 ZkProtest is a privacy-focused decentralized zkApp that aims to enable anonymous and secure protests where participants can join and support various causes while preserving their privacy.
 
 ## find out everything from the video : 
-<a href="https://www.dropbox.com/s/c27w4r26hlg55ps/ZkProtest%20Explanation%20%2B%20Demo.mov?dl=0" target="_blank" 
+<a href="https://www.dropbox.com/t/1Bza7t5aHOTMRNxg" target="_blank" 
             rel="noopener noreferrer">VIDEO HERE</a>
 
             
@@ -40,7 +40,7 @@ participants can join and support various causes while preserving their privacy.
 without compromising their personal information.
 * Privacy preserving, accountable, untraceable
 
-## technical implementation (see <a href="https://www.dropbox.com/s/c27w4r26hlg55ps/ZkProtest%20Explanation%20%2B%20Demo.mov?dl=0" target="_blank" rel="noopener noreferrer">video</a> for more details)
+## technical implementation (see <a href="https://www.dropbox.com/t/1Bza7t5aHOTMRNxg" target="_blank" rel="noopener noreferrer">video</a> for more details)
 
 * diagram explanation part : 2:44 -> 8:14
 * code demo : 8:15 -> 10:46
